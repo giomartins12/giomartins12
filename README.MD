@@ -2,7 +2,7 @@
 
 
 
-<img src="computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem computador Micaelli Medeiros">
+<img src="codigo.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem computador Micaelli Medeiros">
 
 
 
